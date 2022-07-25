@@ -10,6 +10,4 @@ This file will teachs you how to create python virtual environment and how to ac
 
 Open your 'project folder'
 
-```
-
-```
+![alt text]([http://url/to/img.png](https://github.com/Giraffe1010/TextProcessing/blob/bf6f5ef3ff3ecb43e29780581b1287e0304cd89f/.img/1-new%20project.png))
