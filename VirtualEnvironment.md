@@ -20,7 +20,7 @@ Open the terminal
 
 ### Step 3: install Virtual Environment package
 
-Type "pip install virtualenv" in the terminal thnen press enter
+Type "pip install virtualenv" in the terminal then press enter
 
 ```
 pip install virtualenv
@@ -67,3 +67,13 @@ putANameHere\Scripts\activate.bat
 ```
 
 ![activate1](img/5-bat.png)
+
+## TADA!
+
+Then you should see the folder name in the front of the command like this
+
+![com](img/complete.png)
+
+if you get the (putANameHere) - or whatever your environment's folder name is - that mean you already working in your virtual environment!
+
+Feel free to install packages and do whatever you want to do in this envirenment. It will not effect your computer and your other python projects!
