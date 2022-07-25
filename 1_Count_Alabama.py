@@ -7,6 +7,7 @@ f = open('ABM.txt','r') # 'r' stands for "read only"
 dat = f.read() # store data in 'dat' variable
 f.close() # when use "open" function to open the file, you must close the file after using it
 
+## Start counting the word
 
 count = re.findall('Alabama', dat) # use 're' to find all the 'aAabama'
 print(count) # this will retur n an array of ['Alabama', 'Alabama', ... ,'Alabama']
