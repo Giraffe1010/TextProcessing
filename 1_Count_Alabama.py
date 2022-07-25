@@ -9,6 +9,8 @@ f = open('ABM.txt','r') # 'r' stands for "read only"
 dat = f.read() # store data in 'dat' variable
 f.close() # when use "open" function to open the file, you must close the file after using it
 
+# Now your data is "dat" try print(dat) to see what happens
+
 
 ## Start counting the word
 
