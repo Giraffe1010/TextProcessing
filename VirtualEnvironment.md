@@ -14,8 +14,31 @@ Open your 'project folder' if you already had a project or create a new one
 
 ### Step 2 Open Terminal
 
+Open the terminal
+
 ![open Terminal](img/2-open_terminal.png)
 
-### Step 3 Create Virtual Environment folder
+### Step 3 install Virtual Environment package
 
-![virtual](img/3-create_env.png)
+Type "pip install virtualenv" in the terminal thnen press enter
+
+```
+pip install virtualenv
+```
+
+![install venv](img/3-install_venv.png)
+
+### Step 4 Create Virtual Environment folder
+
+By using command
+
+```
+py -m venv putANameHere
+```
+
+you can replace any name you want to "putANameHere"
+
+-m is short for module 
+venv is the 
+
+![virtual](img/4-create_env.png)
