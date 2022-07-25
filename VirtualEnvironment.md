@@ -10,4 +10,4 @@ This file will teachs you how to create python virtual environment and how to ac
 
 Open your 'project folder'
 
-![Alt text]([./.img/1-new%20project.png))
+![oper folder]([/img/1-new_project.png))
