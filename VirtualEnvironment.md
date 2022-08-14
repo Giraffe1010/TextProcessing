@@ -38,8 +38,9 @@ py -m venv putANameHere
 
 you can replace any name you want to "putANameHere"
 
--m is short for module 
-venv is the module name (short for 'virtual environment')
+'-m' is short for 'module'
+
+'venv' is the module name (short for 'virtual environment')
 
 ![virtual](img/4-create_env.png)
 
