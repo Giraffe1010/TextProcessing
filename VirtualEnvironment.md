@@ -8,7 +8,7 @@ This file will teach you how to create python virtual environment and how to act
 
 ### Step 1: Open/Create Project
 
-Open your 'project folder' if you already had a project or create a new one
+Open your 'project folder' if you already had a project, or create a new one if you didn't have any.
 
 ![open folder](img/1-new_project.png)
 
